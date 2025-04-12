@@ -89,7 +89,7 @@ DOMAIN-SUFFIX,tfboyaac.com
 DOMAIN-SUFFIX,tfboyaab.com
 DOMAIN-SUFFIX,aiyifan.tv
 DOMAIN-SUFFIX,tfboyaaa.com
-
+DOMAIN-SUFFIX,19950817.xyz
 DOMAIN-SUFFIX,canva.com
 
 DOMAIN-SUFFIX,waytogone.com
@@ -134,7 +134,6 @@ DOMAIN-SUFFIX,bulianglin.com
 DOMAIN-SUFFIX,coincola.com
 DOMAIN-SUFFIX,coincolacdn.com
 DOMAIN-SUFFIX,colaotc.com
-DOMAIN-SUFFIX,19950817.xyz
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
