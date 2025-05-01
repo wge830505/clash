@@ -142,6 +142,7 @@ DOMAIN-SUFFIX,registry.hub.docker.com
 DOMAIN-SUFFIX,console.run.claw.cloud/
 DOMAIN-SUFFIX,p3terx.com
 DOMAIN-SUFFIX,dongvps.com
+DOMAIN-SUFFIX,akagiyui.com
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
