@@ -149,7 +149,20 @@ DOMAIN-SUFFIX,ubuntu.com
 DOMAIN-SUFFIX,btsearch.love
 DOMAIN-SUFFIX,heimuer.tv
 DOMAIN-SUFFIX,lzizy.net
-DOMAIN-SUFFIX,bfzy.tv/
+DOMAIN-SUFFIX,bfzy.tv
+DOMAIN-SUFFIX,ffzy5.tv
+DOMAIN-SUFFIX,ikunzy.com
+DOMAIN-SUFFIX,xinlangzy.com
+DOMAIN-SUFFIX,guangsuzy.com
+DOMAIN-SUFFIX,huawei8.live
+DOMAIN-SUFFIX,dbzy.com
+DOMAIN-SUFFIX,ryzy3.tv
+DOMAIN-SUFFIX,moduzy.com
+DOMAIN-SUFFIX,jisuzy.com
+DOMAIN-SUFFIX,suonizy.net
+DOMAIN-SUFFIX,taopianzy.com
+DOMAIN-SUFFIX,ukuzy0.com
+
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
